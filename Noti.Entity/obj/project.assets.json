@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Groop\\.nuget\\packages\\": {}
+    "C:\\Users\\aydin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\Noti.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\aydin\\Desktop\\Noti\\Noti.Entity\\Noti.Entity.csproj",
       "projectName": "Noti.Entity",
-      "projectPath": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\Noti.Entity.csproj",
-      "packagesPath": "C:\\Users\\Groop\\.nuget\\packages\\",
-      "outputPath": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\obj\\",
+      "projectPath": "C:\\Users\\aydin\\Desktop\\Noti\\Noti.Entity\\Noti.Entity.csproj",
+      "packagesPath": "C:\\Users\\aydin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aydin\\Desktop\\Noti\\Noti.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Groop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aydin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

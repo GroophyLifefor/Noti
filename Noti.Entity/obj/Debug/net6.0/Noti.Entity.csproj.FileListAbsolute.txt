@@ -10,3 +10,15 @@ C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.dll
 C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\refint\Noti.Entity.dll
 C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.pdb
 C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\ref\Noti.Entity.dll
+C:\Users\aydin\Desktop\Noti\Noti.Entity\bin\Debug\net6.0\Noti.Entity.deps.json
+C:\Users\aydin\Desktop\Noti\Noti.Entity\bin\Debug\net6.0\Noti.Entity.dll
+C:\Users\aydin\Desktop\Noti\Noti.Entity\bin\Debug\net6.0\Noti.Entity.pdb
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.csproj.AssemblyReference.cache
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.AssemblyInfoInputs.cache
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.AssemblyInfo.cs
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.csproj.CoreCompileInputs.cache
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.dll
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\refint\Noti.Entity.dll
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.pdb
+C:\Users\aydin\Desktop\Noti\Noti.Entity\obj\Debug\net6.0\ref\Noti.Entity.dll

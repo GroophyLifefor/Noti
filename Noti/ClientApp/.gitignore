@@ -4,6 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
 
 # testing
 /coverage
@@ -25,15 +32,6 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# yarn
-.yarn/*
-!.yarn/cache
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
-
 # local env files
 .env*.local
 
@@ -42,3 +40,4 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+next-env.d.ts
