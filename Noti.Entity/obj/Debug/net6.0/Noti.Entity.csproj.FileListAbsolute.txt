@@ -1,0 +1,12 @@
+C:\Desktop\Code\BBP\Noti\Noti.Entity\bin\Debug\net6.0\Noti.Entity.deps.json
+C:\Desktop\Code\BBP\Noti\Noti.Entity\bin\Debug\net6.0\Noti.Entity.dll
+C:\Desktop\Code\BBP\Noti\Noti.Entity\bin\Debug\net6.0\Noti.Entity.pdb
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.csproj.AssemblyReference.cache
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.AssemblyInfoInputs.cache
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.AssemblyInfo.cs
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.csproj.CoreCompileInputs.cache
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.dll
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\refint\Noti.Entity.dll
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\Noti.Entity.pdb
+C:\Desktop\Code\BBP\Noti\Noti.Entity\obj\Debug\net6.0\ref\Noti.Entity.dll
