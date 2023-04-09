@@ -1,0 +1,17 @@
+C:\Desktop\Code\BBP\Noti\Noti.Service\bin\Debug\net6.0\Noti.Service.deps.json
+C:\Desktop\Code\BBP\Noti\Noti.Service\bin\Debug\net6.0\Noti.Service.dll
+C:\Desktop\Code\BBP\Noti\Noti.Service\bin\Debug\net6.0\Noti.Service.pdb
+C:\Desktop\Code\BBP\Noti\Noti.Service\bin\Debug\net6.0\Noti.Data.dll
+C:\Desktop\Code\BBP\Noti\Noti.Service\bin\Debug\net6.0\Noti.Entities.dll
+C:\Desktop\Code\BBP\Noti\Noti.Service\bin\Debug\net6.0\Noti.Data.pdb
+C:\Desktop\Code\BBP\Noti\Noti.Service\bin\Debug\net6.0\Noti.Entities.pdb
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\Noti.Service.csproj.AssemblyReference.cache
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\Noti.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\Noti.Service.AssemblyInfoInputs.cache
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\Noti.Service.AssemblyInfo.cs
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\Noti.Service.csproj.CoreCompileInputs.cache
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\Noti.Service.csproj.CopyComplete
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\Noti.Service.dll
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\refint\Noti.Service.dll
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\Noti.Service.pdb
+C:\Desktop\Code\BBP\Noti\Noti.Service\obj\Debug\net6.0\ref\Noti.Service.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ZWbFVRMO/3Lh29TfeaeVR//P1miFG46qr8dNH2Rn8jR5uObFCv6nGk7pFkXE9B+VTvaivWoRTS+J36r9MrpeQ==",
+  "dgSpecHash": "q70iZqyO2PjBXMyvNw1zRtEbKzy7de2hEfF2en6FD8zLsAgUJS/B1y9nbTxBE8s3cIA01o1NQvQL7pxPaHXJzA==",
   "success": true,
-  "projectFilePath": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\Noti.Entity.csproj",
+  "projectFilePath": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\Noti.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

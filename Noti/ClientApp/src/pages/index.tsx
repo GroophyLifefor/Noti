@@ -10,15 +10,16 @@ import Navbar from "react-bootstrap/Navbar";
 import Alert from "react-bootstrap/Alert";
 
 export default function Home() {
-  const [data, setData] = useState<{ a: number }>({ a: 0 });
+  const [data, setData] = useState<{ id: number }>({ id: 0 });
 
   useEffect(() => {
     const getData = async () => {
-      const res = await fetch("https://localhost:7255/homes");
-      const data = res.json();
+      const res = await fetch("https://localhost:7255/posts");
+        const data = res.json();
       return data;
-    };
-    getData().then((data) => setData(data));
+      };
+      //getData().then((data) => setData(data));
+      getData().then((data) => console.log(data));
   }, []);
 
   return (
@@ -30,7 +31,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Alert variant="danger" className="m-2">
-        This is server response: {data.a} (actually 1), but CORS error
+        This is server response: {data.id} (actually 1), but CORS error
       </Alert>
       <Navbar expand="lg" bg="dark" variant="dark">
         <Container className="d-flex flex-row justify-around">

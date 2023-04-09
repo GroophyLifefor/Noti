@@ -5,11 +5,11 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noti.WebUI", "Noti\Noti.WebUI.csproj", "{290A6573-BFE1-4BDC-9404-780E2532C72A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noti.Entity", "Noti.Entity\Noti.Entity.csproj", "{7F213FA4-88D3-4218-B970-5E1579D2317E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noti.Entities", "Noti.Entity\Noti.Entities.csproj", "{7F213FA4-88D3-4218-B970-5E1579D2317E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noti.Data", "Noti.Data\Noti.Data.csproj", "{464383DD-1BB8-4FF8-991C-1F194499EF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noti.Data", "Noti.Data\Noti.Data.csproj", "{464383DD-1BB8-4FF8-991C-1F194499EF7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noti.Service", "Noti.Service\Noti.Service.csproj", "{219D29DA-F13A-49B0-BCA6-74BC5CAE536D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noti.Service", "Noti.Service\Noti.Service.csproj", "{219D29DA-F13A-49B0-BCA6-74BC5CAE536D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

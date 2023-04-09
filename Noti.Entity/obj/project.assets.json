@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\Noti.Entity.csproj",
-      "projectName": "Noti.Entity",
-      "projectPath": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\Noti.Entity.csproj",
+      "projectUniqueName": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\Noti.Entities.csproj",
+      "projectName": "Noti.Entities",
+      "projectPath": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\Noti.Entities.csproj",
       "packagesPath": "C:\\Users\\Groop\\.nuget\\packages\\",
       "outputPath": "C:\\Desktop\\Code\\BBP\\Noti\\Noti.Entity\\obj\\",
       "projectStyle": "PackageReference",

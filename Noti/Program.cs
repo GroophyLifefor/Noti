@@ -1,8 +1,32 @@
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Noti.Data;
+using Noti.Entities;
+using Noti.Service.Abstract;
+using Noti.Service.Concrete;
 
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
+var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+                      policy =>
+                      {
+                          policy
+                          .AllowAnyOrigin()
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                      });
+});
+
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<DatabaseContext>();
+
+builder.Services.AddTransient(typeof(IService<>), typeof(Service<>));
 
 var app = builder.Build();
 
@@ -17,13 +41,10 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 
+app.UseCors(MyAllowSpecificOrigins);
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller}/{action=Index}/{id?}");
-
-app.MapFallbackToFile("/products","/products.html");
-app.MapFallbackToFile("/products/{pId}","/products/[productId].html");
-app.MapFallbackToFile("index.html");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
